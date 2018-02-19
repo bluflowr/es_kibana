@@ -21,4 +21,4 @@ To use this repository, follow along via [slide deck][3] and the consecutive com
 
 [1]: https://www.elastic.co/guide/en/elasticsearch/reference/5.6/_installation.html
 [2]: https://www.elastic.co/downloads/kibana
-[3]: http://irmakramer.com/presentations
+[3]: http://pyladi.es/ES-kibana
