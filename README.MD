@@ -19,6 +19,6 @@ It is advised to use a virtualenv for all your Python projects.
 ### Code
 To use this repository, follow along via [slide deck][3] and the consecutive commits.
 
-[1]: https://www.elastic.co/guide/en/elasticsearch/reference/5.6/_installation.html
+[1]: https://www.elastic.co/guide/en/elasticsearch/reference/current/_installation.html
 [2]: https://www.elastic.co/downloads/kibana
 [3]: http://pyladi.es/ES-kibana
